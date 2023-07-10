@@ -1,0 +1,4 @@
+#Mon Jul 10 14:52:13 WAT 2023
+base.0=/Users/premiumewsop/Documents/Flutter Projects/pesowp_scan/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
